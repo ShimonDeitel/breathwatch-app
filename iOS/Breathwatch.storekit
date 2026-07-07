@@ -1,0 +1,29 @@
+{
+  "identifier": "breathwatch",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "3.99",
+      "familyShareable": false,
+      "internalID": "breathwatch_pro_unlock",
+      "localizations": [
+        {
+          "description": "Episode frequency charts formatted for vet appointments",
+          "displayName": "Breathwatch Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "breathwatch_pro_unlock",
+      "referenceName": "Breathwatch Pro Unlock",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
